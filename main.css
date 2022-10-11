@@ -1,0 +1,103 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 10%;
+}
+
+.main {
+    margin: 50px;
+    border: 2px solid black;
+    width: 24%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.password {
+    margin-right: 215px;
+    margin-left: 20px;
+}
+
+.line {
+    margin: 10px;
+    margin-bottom: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#forgot {
+    color:blue;
+}
+
+#forgot:hover {
+    color: #87CEFA;
+}
+
+
+#label {
+    justify-content: left;
+}
+
+#input {
+    text-align: left;
+    width: 88%;
+    height: 30px;
+}
+
+.continue {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 30px;
+    background-color: #ff9900;
+    border: 1px solid black;
+}
+
+span {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.help {
+    color: blue;
+}
+
+.help:hover {
+    color: #87CEFA;
+}
+
+.hrclass {
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.create {
+    background-color: #E6E6FA;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.end {
+    margin-top: 60px;
+}
+
+p {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 30px;
+}
